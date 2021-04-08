@@ -1,0 +1,22 @@
+Crispin Corpuz
+5 April 2021
+CSCI 3320, Spring 2021
+Dr. Jon-Hong Youn
+
+========================================================
+***Compiling Instructions***
+========================================================
+1) 	Have all files in same directory
+2) 	In command line at directory with all Java source files type in:
+2a)	javac UnderflowException.java
+2b) javac DHeap.java
+2c) javac DHeapDriver.java
+
+
+========================================================
+***Running Instructions***
+========================================================
+In order to run program seen in assignment handout, run:
+	java DHeapDriver
+
+Then follow directions as shown in the terminal/console/command prompt
